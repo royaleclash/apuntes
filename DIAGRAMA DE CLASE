@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T12:50:09.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="yQUO4SQQXSJKX5pAez2m" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T12:51:31.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="L0qX5JsgxxlS67hQ57hb" version="24.3.1" type="github">
   <diagram name="Página-1" id="LsnN317vWfVpyZCrPbMb">
     <mxGraphModel dx="1329" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="uf_V_TvahqUx638r_3px-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;Gestionar empleados&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="-80" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uf_V_TvahqUx638r_3px-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;Gestiónar de jugadores&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uf_V_TvahqUx638r_3px-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;Gestiónar jugadores&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-80" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uf_V_TvahqUx638r_3px-49" value="&lt;p class=&quot;MsoNormal&quot;&gt;Gestionar equipos&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
